@@ -1,36 +1,48 @@
-# Привіт, я Нікіта 👋
+# Hi, I`m Nik 👋
 
-# Про мене 👨
-Я студент-програміст, навчаюсь на другому курсі коледжу. Вивчаю web-розробку, рухаюсь у бік full-stack'у. Є знання у backend'і(Python, Flask, Django, MySQL), зараз вивчаю JavaScript, React, Node та CSS.
+# About me 👨
+I am a student programmer, studying in the fourth year of college. 
 
-# Деякі з моїх проектів 🚀
-- [Django Articles](https://github.com/Nikita-Goncharov/DjangoArticleTask) - Сайт для створення статей, є можливість коментування для зареєстрованих юзерів. Написаний для підвищення скілу у django.
+I am studying web development, moving towards full-stack, then DevOps. I have knowledge in the backend (Python, Flask, Django, Aiohttp, MySQL, PostgreSQL). Already have some skills in JS and React. 
 
-- [Flask rotate](https://github.com/Nikita-Goncharov/Flask-rotate) - Сервіс для зміни орієнтації зображень.
+I am currently trying TS and Node and delve into the full product development cycle.
 
-- [JavaScript calculator](https://github.com/Nikita-Goncharov/Js-Calculator) - Калькулятор, що може визначати пріорітет операторів та вичисляти мультиоператорні дії.
+Code is my life.
 
-# Мій стек технологій 🌱
-- Javascript
-- Python
-- Flask
-- Django
-- Wagtail(django cms)
-- SQL
-- MySQL
-- HTML
-- CSS
-- GIT
-- Docker
-- Linux
+# Some of my projects 🚀
+* [Full stack service DOCS](https://github.com/Nikita-Goncharov/Social-network-async-API-Docs) - Documentation of API endpoints, in the future will be added documentation of the service in general.
+  * [React frontend](https://github.com/Nikita-Goncharov/Social-network-React) - Frontend part of social network.
+  * [Aiohttp backend](https://github.com/Nikita-Goncharov/Social-network-async-API) - API, there is already authorization, ability of post creation, profiles and posts pagination.
 
-# Моя статистика 📊
-![Статистика](https://github-readme-stats.vercel.app/api?username=Nikita-Goncharov&show_icons=true&count_private=true)
+* [Flask site](https://github.com/Nikita-Goncharov/Personal-Flask-Site) - Own site written with Flask includes authorization, admin pages, sending messages to a Telegram bot if there is a new comment or someone fills out a feedback form.
 
-# Контакти 📫
+* [Check parser](https://github.com/Nikita-Goncharov/Check-parser) - Program for parsing data from scans of games checks.
+
+# My hard skills 🌱
+* JavaScript,
+* React,
+* Python,
+* Flask,
+* Django,
+* Aiohttp,
+* OpenCV,
+* MySQL,
+* PostgreSQL,
+* HTML,
+* CSS,
+* GIT,
+* Docker,
+* Linux,
+* Swagger,
+* С++(basic knowledge)
+
+# My statistics 📊
+![Statistics](https://github-readme-stats.vercel.app/api?username=Nikita-Goncharov&show_icons=true&count_private=true)
+
+# Contacts 📫
 Telegram: [click here](https://t.me/niksilvia)<br>
 Instagram: [click here](https://www.instagram.com/_nikita__goncharov_/)<br>
 
-Якщо у вас є які-небудь питання, не соромтеся зв'язатися зі мною. Я буду радий допомогти!
+If you have any questions, don't hesitate to contact me. I will be happy to help!
 
-P.S. 👀 Зацікавлений у співпраці над цікавими та корисними проектами.
+P.S. 👀 Interested in cooperation on interesting and useful projects.
