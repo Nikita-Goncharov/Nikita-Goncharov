@@ -1,4 +1,4 @@
-# Hi, I`m Nik 👋
+# Hi, I'm Nik 👋
 
 # About me 👨
 I am a student programmer, studying in the fourth year of college. 
